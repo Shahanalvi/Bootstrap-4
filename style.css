@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+
+    font-size: 2em;
+    padding-left: 5%;
+    font-weight: bold;
+}
+.navbar{
+ border: 2px solid black
+
+}
+.navbar-nav{
+ float: right;
+ padding-left: 70%;
+
+}
+.nav-link{
+    padding: 15px;
+}
+
+.big-banner{
+
+   background-image: url(container_1.jpg);
+   background-repeat: no-repeat;
+    background-size: 100%;
+ 
+}
+.text{
+    text-align: center;
+   padding-top: 2%;
+    font-weight: normal;
+}
+.row{
+
+    padding-top: 4%;
+}
+.container-fluid{
+    padding-top: 3%;
+}
+h1{
+
+    padding-top: 12%;
+    font-size: 4em;
+}
+h2{
+
+    font-size: 3em;
+    
+}
+
+
+
